@@ -23,8 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Wikipedia](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson) and ![Picture of Stevenson](https://upload.wikimedia.org/wikipedia/commons/f/f7/Robert_Louis_Stevenson_by_Henry_Walter_Barnett.jpg)
+
 ```
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson) and ![Picture of Stevenson](https://upload.wikimedia.org/wikipedia/commons/f/f7/Robert_Louis_Stevenson_by_Henry_Walter_Barnett.jpg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
